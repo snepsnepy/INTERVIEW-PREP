@@ -130,6 +130,62 @@ get(key) {
 
 ---
 
+### 5. **Metoda `keys()`** - Returnează toate cheile
+
+```javascript
+keys() {
+  const keysArray = [];
+  for (let i = 0; i < this.data.length; i++) {
+    if (this.data[i]) {
+      for (let j = 0; j < this.data[i].length; j++) {
+        keysArray.push(this.data[i][j][0]);
+      }
+    }
+  }
+  return keysArray;
+}
+```
+
+#### Ce face?
+
+Returnează un array cu toate cheile stocate în hash table.
+
+#### Cum funcționează pas cu pas:
+
+1. **Creează un array gol** pentru a stoca cheile
+2. **Iterează prin toate pozițiile** din array-ul principal (de la 0 la dimensiune)
+3. **Pentru fiecare bucket care există:**
+   - Parcurge toate perechile `[cheie, valoare]` din bucket
+   - Extrage cheia (primul element al perechii)
+   - Adaugă cheia în array-ul de rezultate
+4. **Returnează array-ul** cu toate cheile
+
+#### De ce două bucle?
+
+- **Prima buclă** (i) - parcurge toate pozițiile din hash table
+- **A doua buclă** (j) - parcurge toate perechile dintr-un bucket (necesară pentru coliziuni!)
+
+#### Exemplu:
+
+```javascript
+const myHashTable = new HashTable(50);
+myHashTable.set("grapes", 10000);
+myHashTable.set("apples", 5000);
+myHashTable.set("oranges", 7500);
+
+console.log(myHashTable.keys());
+// Output: ["grapes", "apples", "oranges"]
+```
+
+> **Notă:** Ordinea cheilor nu este garantată, deoarece depinde de funcția hash și de pozițiile în care sunt stocate.
+
+#### Complexitate temporală:
+
+- **O(n)** - unde n este numărul total de elemente
+- Trebuie să parcurgă întregul hash table pentru a colecta toate cheile
+
+---
+
 ## Gestionarea Coliziunilor
 
 ### Ce este o coliziune?
@@ -156,15 +212,17 @@ Index 23: [["grapes", 10000], ["apples", 5000]]
 
 ## Complexitate Temporală
 
-| Operație  | Caz mediu | Caz cel mai rău |
-| --------- | --------- | --------------- |
-| **set()** | O(1)      | O(n)            |
-| **get()** | O(1)      | O(n)            |
+| Operație   | Caz mediu | Caz cel mai rău |
+| ---------- | --------- | --------------- |
+| **set()**  | O(1)      | O(n)            |
+| **get()**  | O(1)      | O(n)            |
+| **keys()** | O(n)      | O(n)            |
 
 ### Explicație:
 
 - **O(1)** - Constant: De obicei, hash-ul găsește direct poziția (foarte rapid!)
 - **O(n)** - Liniar: În cel mai rău caz, toate cheile au coliziuni și trebuie să parcurgi toate elementele din bucket
+- **keys()** este întotdeauna O(n) pentru că trebuie să parcurgă toate elementele pentru a le colecta
 
 ---
 
@@ -183,6 +241,9 @@ myHashTable.set("oranges", 7500); // Prețul portocalelor
 console.log(myHashTable.get("grapes")); // Output: 10000
 console.log(myHashTable.get("apples")); // Output: 5000
 console.log(myHashTable.get("bananas")); // Output: undefined (nu există)
+
+// Obține toate cheile
+console.log(myHashTable.keys()); // Output: ["grapes", "apples", "oranges"]
 
 // Vizualizează structura
 console.log("HASH TABLE: ", myHashTable);
@@ -222,8 +283,8 @@ console.log("HASH TABLE: ", myHashTable);
 1. **Redimensionare dinamică** - mărește array-ul când se umple
 2. **Funcție hash mai bună** - reduce coliziunile
 3. **Metoda delete()** - șterge o pereche cheie-valoare
-4. **Metoda keys()** - returnează toate cheile
-5. **Metoda values()** - returnează toate valorile
+4. **Metoda values()** - returnează toate valorile
+5. **Metoda entries()** - returnează toate perechile [cheie, valoare]
 
 ---
 
