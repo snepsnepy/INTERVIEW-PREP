@@ -139,12 +139,45 @@ class LinkedList {
 
     console.log(array);
   }
+
+  /**
+   * Inversează ordinea nodurilor în listă
+   * Exemplu: 1 -> 10 -> 16 -> 88 devine 88 -> 16 -> 10 -> 1
+   * Complexitate temporală: O(n)
+   */
+  reverse() {
+    // Caz special: lista cu un singur element
+    if (!this.head.next) {
+      return this.head;
+    }
+
+    let first = this.head;
+    this.tail = this.head; // Vechiul cap devine noua coadă
+    let second = first.next;
+
+    // Inversăm fiecare legătură
+    while (second) {
+      const tmp = second.next; // Salvăm următorul nod
+      second.next = first; // Inversăm săgeata
+      first = second; // Avansăm first
+      second = tmp; // Avansăm second
+    }
+
+    // Ajustări finale
+    this.head.next = null; // Vechiul cap (acum coadă) → null
+    this.head = first; // Noul cap = ultimul nod procesat
+
+    return this;
+  }
 }
 
-const myLinkedList = new LinkedList(10);
-myLinkedList.prepend(1);
-myLinkedList.append(5);
+// Exemplu: Creăm lista 1 → 10 → 16 → 88
+const myLinkedList = new LinkedList(1);
+myLinkedList.append(10);
 myLinkedList.append(16);
-myLinkedList.insert(2, 99);
-// myLinkedList.remove(2);
-myLinkedList.printList();
+myLinkedList.append(88);
+
+console.log("\n📋 Lista creată are elementele: 1 → 10 → 16 → 88\n");
+
+// Inversăm lista
+myLinkedList.reverse();
