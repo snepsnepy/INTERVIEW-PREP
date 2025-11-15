@@ -6,7 +6,7 @@ class Node {
   }
 }
 
-class BinarySearchThree {
+class BinarySearchTree {
   constructor() {
     this.root = null;
   }
@@ -41,7 +41,7 @@ class BinarySearchThree {
   lookup(value) {}
 }
 
-const tree = new BinarySearchThree();
+const tree = new BinarySearchTree();
 
 tree.insert(9);
 tree.insert(4);
