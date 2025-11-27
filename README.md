@@ -28,4 +28,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0404-sum-of-left-leaves) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
