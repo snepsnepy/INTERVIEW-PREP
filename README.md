@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0142-linked-list-cycle-ii) |
+| [0997-find-the-town-judge](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0997-find-the-town-judge) |
 ## Linked List
 |  |
 | ------- |
@@ -48,9 +49,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0040-combination-sum-ii) |
+| [0997-find-the-town-judge](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0997-find-the-town-judge) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0040-combination-sum-ii) |
+## Graph
+|  |
+| ------- |
+| [0997-find-the-town-judge](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
