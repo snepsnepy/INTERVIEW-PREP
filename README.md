@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0142-linked-list-cycle-ii) |
+## Array
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0039-combination-sum) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
