@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -86,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/1137-n-th-tribonacci-number) |
 ## String
 |  |
 | ------- |
