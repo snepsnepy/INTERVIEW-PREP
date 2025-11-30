@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0142-linked-list-cycle-ii) |
 | [0997-find-the-town-judge](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0997-find-the-town-judge) |
+| [2351-first-letter-to-appear-twice](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/2351-first-letter-to-appear-twice) |
 ## Linked List
 |  |
 | ------- |
@@ -87,4 +88,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0070-climbing-stairs) |
+## String
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/2351-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/2351-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2351-first-letter-to-appear-twice](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
