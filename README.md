@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0142-linked-list-cycle-ii) |
 ## Array
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0119-pascals-triangle-ii) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0005-longest-palindromic-substring) |
 | [2351-first-letter-to-appear-twice](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
