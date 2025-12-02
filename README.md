@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0113-path-sum-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0199-binary-tree-right-side-view) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0113-path-sum-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0199-binary-tree-right-side-view) |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0113-path-sum-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0113-path-sum-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0145-binary-tree-postorder-traversal](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0199-binary-tree-right-side-view) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0040-combination-sum-ii) |
+| [0113-path-sum-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0113-path-sum-ii) |
 ## Graph
 |  |
 | ------- |
