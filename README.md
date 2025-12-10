@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0005-longest-palindromic-substring) |
 | [0141-linked-list-cycle](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0142-linked-list-cycle-ii) |
+| [1768-merge-strings-alternately](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/0005-longest-palindromic-substring) |
+| [1768-merge-strings-alternately](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/1768-merge-strings-alternately) |
 | [2351-first-letter-to-appear-twice](https://github.com/snepsnepy/INTERVIEW-PREP/tree/master/2351-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
